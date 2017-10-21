@@ -1,0 +1,1 @@
+/usr/bin/c++   -m32 -mssse3 -g   CMakeFiles/AssemblerHomeworks.dir/memcpy.cpp.o CMakeFiles/AssemblerHomeworks.dir/words_counter.cpp.o CMakeFiles/AssemblerHomeworks.dir/trampoline.cpp.o CMakeFiles/AssemblerHomeworks.dir/memorystream.cpp.o CMakeFiles/AssemblerHomeworks.dir/slab.cpp.o  -o AssemblerHomeworks 

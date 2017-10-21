@@ -1,0 +1,2 @@
+MinGW not found at: C:\MinGW
+CMake executable not found

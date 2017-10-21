@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/vlad/CLionProjects/AssemblerHomeworks/memcpy.cpp
+cstdio
+-
+emmintrin.h
+-
+cstring
+-
+
+/home/vlad/CLionProjects/AssemblerHomeworks/words_counter.cpp
+cstdio
+-
+emmintrin.h
+-
+tmmintrin.h
+-
+cstdint
+-
+
